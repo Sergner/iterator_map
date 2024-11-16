@@ -9,12 +9,12 @@
 
 
 const dishes = new Map();
-dishes.set("Маргарита", "Victor"),
-    dishes.set("Пепперони", "Victor"),
-    dishes.set("Филадельфия", "Olga"),
-    dishes.set("Калифорния", "Olga"),
-    dishes.set("Тирамису", "Dmitry"),
-    dishes.set("Чизкейк", "Dmitry")
+dishes.set("Маргарита", "Виктор"),
+    dishes.set("Пепперони", "Виктор"),
+    dishes.set("Филадельфия", "Ольга"),
+    dishes.set("Калифорния", "Ольга"),
+    dishes.set("Тирамису", "Дмитрий"),
+    dishes.set("Чизкейк", "Дмитрий")
 
 
 const pizza = new Set().add("Маргарита").add("Пепперони");
